@@ -61,18 +61,6 @@ header, footer {
     width: 100%;
 }
 
-header {
-    top: 0;
-}
-
-footer {
-    bottom: 0;
-}
-
-nav {
-    margin-top: 125px;
-}
-
 li:hover {
     border: 2px solid #333;
 }
